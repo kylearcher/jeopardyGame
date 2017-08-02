@@ -1,0 +1,412 @@
+(lp0
+(dp1
+VGIVING BLOOD
+p2
+(lp3
+(lp4
+V(Sarah of the Clue Crew is being prepped to donate blood at an American Red Cross blood donation center in Washington, D.C.) Before giving blood a simple test will ensure that you don't have anemia, & that donating blood won't bring it on, as you'll be giving up about 250 milligrams of this element
+p5
+aViron
+p6
+aI1
+aa(lp7
+V(Sarah of the Clue Crew is donating blood at an American Red Cross blood donation center in Washington, D.C.)  Once your blood is collected it goes to a lab where it's separated into components, mainly red cells, platelets & this liquid part, which will be frozen until needed
+p8
+aVplasma
+p9
+aI2
+aa(lp10
+V(Kelly of the Clue Crew holds bags of blood at an American Red Cross blood donation center in Washington, D.C.)  Every unit of blood is screened & tested for many different viruses, including HIV, & infections, including this--both B & C
+p11
+aVhepatitis
+p12
+aI3
+aa(lp13
+V(Kelly of the Clue Crew is donating blood at an American Red Cross blood donation center in Washington, D.C.) The Red Cross could really use your blood if this is your blood type; shared by only 7% of the population, it's the universal donor
+p14
+aVO negative
+p15
+aI4
+aa(lp16
+V(Kelly of the Clue Crew preps to donate blood at an American Red Cross blood donation center in Washington, D.C.)  Technically, the person who draws your blood is called this, from the Greek word for vein
+p17
+aVa phlebotomist
+p18
+aI5
+aasVONE-LINERS
+p19
+(lp20
+(lp21
+VGeorge Burns:"Happiness is having a large, loving, caring, close-knit" one of these "in another city"
+p22
+aVa family
+p23
+aI1
+aa(lp24
+VFred Allen, 1950:This "is a new medium.  It's called a medium because nothing is well done"
+p25
+aVtelevision
+p26
+aI2
+aa(lp27
+VWill Rogers:This group, then with 96 members, "opens with a prayer and closes with an investigation"
+p28
+aVthe Senate
+p29
+aI3
+aa(lp30
+VOscar Levant:Joe DiMaggio's divorce from her "proves that no man can be a success in 2 national pastimes"
+p31
+aVMarilyn Monroe
+p32
+aI4
+aa(lp33
+VMitch Hedberg:This device "can never break.  It can only become stairs"
+p34
+aVan escalator
+p35
+aI5
+aasVPURSE-ONALITIES
+p36
+(lp37
+(lp38
+VClassic bag shapes inspire the Connecticut-based brand of purses called Dooney & this
+p39
+aVBourke
+p40
+aI1
+aa(lp41
+VShe was Kate Brosnahan when she designed her first utilitarian purses, sold now as this brand
+p42
+aVKate Spade
+p43
+aI2
+aa(lp44
+VHe's made his "Marc" with his luxury purses, which often feature his signature "MJ" push lock detail
+p45
+aVMarc Jacobs
+p46
+aI3
+aa(lp47
+VThe "LV" monogram canvas of this brand dates to 1896
+p48
+aVLouis Vuitton
+p49
+aI4
+aa(lp50
+VThe Birkin bag, named for actress Jane Birkin, is a status symbol from this French company
+p51
+aVHerm\u0102¨s
+p52
+aI5
+aasVGOOGLE ME THIS!
+p53
+(lp54
+(lp55
+V...president & you'll get his foundation's website listing offices in NYC & Little Rock
+p56
+aVBill Clinton
+p57
+aI1
+aa(lp58
+V...primate & you'll get the foundation that's the home to Koko, one famous for her sign language skills
+p59
+aVa gorilla
+p60
+aI2
+aa(lp61
+V...automaker & you'll find information on its models like the Touareg & the GTI
+p62
+aVVW (Volkswagen)
+p63
+aI3
+aa(lp64
+V...sports league & you'll find information on its teams, like Real Salt Lake & D.C. United
+p65
+aVMajor League Soccer
+p66
+aI4
+aa(lp67
+V...religious denomination with more than 16 million members & you'll find its home page, www.sbc.net
+p68
+aVSouthern Baptist (Convention)
+p69
+aI5
+aasVTV SERIES FINALES
+p70
+(lp71
+(lp72
+VAlan Shore & Denny Crane took bromance to a new level, tying the knot
+p73
+aVBoston Legal
+p74
+aI1
+aa(lp75
+VMiss Ellie turned Southfork Ranch over to Bobby
+p76
+aVDallas
+p77
+aI2
+aa(lp78
+VOutgoing president Josiah Bartlet attended the inauguration of Matthew Santos
+p79
+aVThe West Wing
+p80
+aI3
+aa(lp81
+VThe 4 main characters were imprisoned for violating a Good Samaritan law
+p82
+aVSeinfeld
+p83
+aI4
+aa(lp84
+VLois & Clark had a wedding; Clark finally got the Superman suit, which he donned to save Lois aboard Air Force One
+p85
+aVSmallville
+p86
+aI5
+aasVSHE CREATED HIM
+p87
+(lp88
+(lp89
+VRhett Butler
+p90
+aVMargaret Mitchell
+p91
+aI1
+aa(lp92
+VSeverus Snape
+p93
+aVJ.K. Rowling
+p94
+aI2
+aa(lp95
+VMr. Fitzwilliam Darcy
+p96
+aVJane Austen
+p97
+aI3
+aa(lp98
+VSimon Legree
+p99
+aVHarriet Beecher Stowe
+p100
+aI4
+aa(lp101
+VHercule Poirot
+p102
+aVAgatha Christie
+p103
+aI5
+aasa(dp104
+VTHE MOUNTAIN WEST
+p105
+(lp106
+(lp107
+VMount Whitney in this Western range is the highest peak in the lower 48 states
+p108
+aVthe Sierra Nevadas
+p109
+aI400
+aa(lp110
+VShira is the westernmost of the 3 extinct volcanoes that make up this highest peak in Africa
+p111
+aVKilimanjaro
+p112
+aI800
+aa(lp113
+VIt's the highest peak in the Cascade range of the Northwest
+p114
+aVMount Rainier
+p115
+aI1200
+aa(lp116
+VThese mountains west of the Hudson take their name from the Dutch for "Wildcat Creek"
+p117
+aVthe Catskills
+p118
+aV5,000
+p119
+aa(lp120
+VThe highest peak in the Atlas Mountains, in the western part of the range, is Mount Toubkal in this monarchy
+p121
+aVMorocco
+p122
+aI2000
+aasVTHE BIG "TEN"
+p123
+(lp124
+(lp125
+VIt's a broad-brimmed hat with a high crown, pardner
+p126
+aVa ten-gallon hat
+p127
+aI400
+aa(lp128
+VThis cut of meat terminates before the ribs
+p129
+aVtenderloin
+p130
+aI800
+aa(lp131
+VEx-CIA head George, or a dogma held as true by members of a movement
+p132
+aVa tenet
+p133
+aI1200
+aa(lp134
+VAn invertebrate's flexible appendage that serves as an organ of touch
+p135
+aVa tentacle
+p136
+aI1600
+aa(lp137
+V1-word term for the inflammation of the fibrous structure that joins muscle to bone
+p138
+aVtendinitis
+p139
+aI2000
+aasVTHE SUN BELT
+p140
+(lp141
+(lp142
+VThe Sun is about 25,000 light years from the center of this galaxy, & one of hundreds of billions of stars within it
+p143
+aVthe Milky Way
+p144
+aI400
+aa(lp145
+VThe temperature of this area of the Sun, also a term for the central part of a fleshy fruit, is close to 27 million degrees
+p146
+aVthe core
+p147
+aI800
+aa(lp148
+VThese dark areas appear so because they are 4,000 degrees cooler than the rest of the Sun's visible surface
+p149
+aVsunspots
+p150
+aI1200
+aa(lp151
+VIn about 5 billion years, the Sun will expand & become a red this; outer layers may reach 2 or even (gulp!) 3 planets
+p152
+aVa giant
+p153
+aI1600
+aa(lp154
+VThe Sun converts about 4.5 million tons of matter into energy every second by this type of nuclear reaction
+p155
+aVfusion
+p156
+aI2000
+aasVTHE PATRIOT LEAGUE
+p157
+(lp158
+(lp159
+VCommanding J.P. Morgan's converted yacht, Richard Wainwright was a hero of the Battle of Santiago in this 1898 war
+p160
+aVthe Spanish-American War
+p161
+aI400
+aa(lp162
+V1760s political activist James Otis is credited with the phrase "taxation without" this "is tyranny"
+p163
+aVrepresentation
+p164
+aI800
+aa(lp165
+VIsaac Hull captained this ship in 1812 as cannonballs from the frigate Guerriere bounced off it
+p166
+aVthe USS Constitution ("Old Ironsides")
+p167
+aV3,000
+p168
+aa(lp169
+VJoshua Chamberlain held Little Round Top during this Civil War battle
+p170
+aVGettysburg
+p171
+aI1600
+aa(lp172
+VVulpine nickname given to patriot Francis Marion by the Brits
+p173
+aVthe Swamp Fox
+p174
+aI2000
+aasVTHE SEC
+p175
+(lp176
+(lp177
+VAs its name says, the SEC regulates these S's & wants investors to know that unlike bank deposits, they can lose value
+p178
+aVsecurities
+p179
+aI400
+aa(lp180
+VBefore Congress in 2009, investigator Harry Markopolos lambasted the SEC's (non-)oversight of this Ponzi schemer
+p181
+aVBernie Madoff
+p182
+aI800
+aa(lp183
+VTo help enforce the regs, all the commissioners have this type of graduate degree, including from Yale & Harvard
+p184
+aVa J.D. (a law degree)
+p185
+aI1200
+aa(lp186
+VThe act that set up the SEC restricted buying stocks "on" this--no more than 45% of the market price could be borrowed credit
+p187
+aVmargin
+p188
+aI1600
+aa(lp189
+VThe SEC ensures equal access to information by all investors, this 12-letter quality also found in windows
+p190
+aVtransparency
+p191
+aI2000
+aasVCOLLEGE SPORTS
+p192
+(lp193
+(lp194
+VAt a 1935 college track meet, he broke 3 world records & tied a fourth; then it was on to the Berlin Olympics
+p195
+aVJesse Owens
+p196
+aI400
+aa(lp197
+VHitting .361 as a sophomore got him a contract with the Yankees, but he'd win Super Bowls as a Bronco quarterback
+p198
+aVJohn Elway
+p199
+aI800
+aa(lp200
+VThe model for this, originally called the Downtown Athletic Club Trophy, was NYU football player Ed Smith
+p201
+aVthe Heisman
+p202
+aI1200
+aa(lp203
+VLast name of the twins seen here; they put their oars in the water for Oxford as well as Harvard
+p204
+aVWinklevoss
+p205
+aI1600
+aa(lp206
+VIn 1965 this African American with an alliterative name won the singles & doubles college tennis titles
+p207
+aVArthur Ashe
+p208
+aI2000
+aasa(dp209
+V19th CENTURY LITERATURE
+p210
+(lp211
+(lp212
+V"'How are you getting on?' said" this animal character, "as soon as there was mouth enough for it to speak with"
+p213
+aVthe Cheshire Cat
+p214
+aI0
+aasa.
